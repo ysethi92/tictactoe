@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3991aa</color>-->
+    <!--<color name="colorPrimaryDark">#184b5a</color>-->
+    <!--<color name="colorBackground">#26697c</color>-->
+    <!--<color name="colorAccent">#0A3664</color>-->
+    <!--<color name="white">#FFFFFF</color>-->
+    <!--<color name="black">#000000</color>-->
+
+    <!--Grey Shades-->
+
+    <!--<color name="colorPrimary">#9E9E9E</color>-->
+    <!--<color name="colorPrimaryDark">#616161</color>-->
+    <!--<color name="colorBackground">#757575</color>-->
+    <!--<color name="colorAccent">#607D8B</color>-->
+    <!--<color name="black">#212121</color>-->
+    <!--<color name="white">#FFFFFF</color>-->
+
+    <!--Blue shades-->
+
+    <!--<color name="colorPrimary">#01579b</color>-->
+    <!--<color name="colorPrimaryLight">#4f83cc</color>-->
+    <!--<color name="colorPrimaryDark">#002f6c</color>-->
+    <!--<color name="colorSecondary">#4dd0e1</color>-->
+    <!--<color name="colorSecondaryLight">#88ffff</color>-->
+    <!--<color name="colorSecondaryDark">#009faf</color>-->
+    <!--<color name="colorPrimaryText">#ffffff</color>-->
+    <!--<color name="colorSecondaryText">#212121</color>-->
+
+    <!--Black shades-->
+
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryLight">#484848</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorSecondary">#546e7a</color>
+    <color name="colorSecondaryLight">#819ca9</color>
+    <color name="colorSecondaryDark">#29434e</color>
+    <color name="colorPrimaryText">#fafafa</color>
+    <color name="colorSecondaryText">#eceff1</color>
+    <color name="blue">#01579b</color>
+
+    <color name="primary">#9E9E9E</color>
+    <color name="primary_dark">#616161</color>
+    <color name="primary_light">#F5F5F5</color>
+    <color name="accent">#607D8B</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
+</resources>

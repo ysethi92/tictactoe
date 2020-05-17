@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="computer_won">Computer Won</string>
+    <string name="player_vs_player">Player vs Player</string>
+    <string name="player_vs_bot">Player vs Bot</string>
+    <string name="match_draw">Match Draw</string>
+    <string name="player2_won">Player2 Won</string>
+    <string name="player1_won">Player1 Won</string>
+    <string name="you_won">You Won :)</string>
+    <string name="reset">Reset</string>
+    <string name="player_1">Player 1</string>
+    <string name="no"><b>No</b></string>
+    <string name="continue_txt"><b>Continue</b></string>
+    <string name="tic_tac_toe"><b><u>TIC TAC TOE</u></b></string>
+    <string name="enter_name"><b>Enter Name :</b></string>
+    <string name="choose_bot_level"><b>Choose bot level :</b></string>
+    <string name="you">You</string>
+    <string name="computer">Computer</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="do_you_want_to_exit_the_application">Do you want to exit the application?</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="easy">Easy</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:windowAnimationStyle">@style/PauseDialogAnimation</item>-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#546E7A</item>
+        <item name="android:textColorPrimary">#37474F</item>
+        <item name="android:background">#B0BEC5</item>
+    </style>
+    
+    <style name="LevelDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowAnimationStyle">@style/PauseDialogAnimation</item>
+        <item name="colorAccent">#546E7A</item>
+        <item name="android:textColorPrimary">#37474F</item>
+        <item name="android:background">#B0BEC5</item>
+    </style>
+
+    <style name="PauseDialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+
+    <style name="pvb_scoreBoardHeadings">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="pvb_scoreBoardScores">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="NewStyle" parent="Theme.AppCompat.NoActionBar"/>
+
+</resources>
